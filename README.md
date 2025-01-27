@@ -28,5 +28,5 @@ What you do not have to do:
 * Install additional packages
 
 Create a new public repository, forking this one and invite `grizzi` and `migueldelaiv`. 
-We expect you to take 2.5 hours at most. We appreaciate your effort in sticking to this time. 
-It can be a long process to find all the details of a complex software package. If you are not able to solve it in the due time dont worry. We are interested to know the steps you took and how you planned your work.
+We expect the assigment to take 2 to 4 hours depending on previous experience. 
+It can be a long process to find all the details of a complex software package. If you are not able to solve it in time dont worry. We are interested to know the steps you took and how you planned your work.
